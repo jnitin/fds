@@ -1,2 +1,2 @@
 # fds
-foundation of data science  course repo
+foundations of data science  course repo
